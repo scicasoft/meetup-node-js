@@ -1,7 +1,27 @@
 {
+  "name": "meetup-node-js",
+  "version": "0.0.1",
+  "author": "Cheikh Sidya CAMARA <scicasoft@gmail.com>",
+  "description": "Une petite application de messagerie instantanée pour montrer le fonctionnement de NodeJS",
+  "contributors": [
+    {
+      "name": "Cheikh Sidya CAMARA",
+      "email": "scicasoft@gmail.com"
+    }
+  ],
   "dependencies": {
     "express": "3.4.4",
     "socket.io": "0.9.16",
     "underscore": "1.5.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scicasoft/meetup-node-js"
+  },
+  "keywords": [
+    "cli",
+    "http",
+    "server",
+    "chat"
+  ],
 }
